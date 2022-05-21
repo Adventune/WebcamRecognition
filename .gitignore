@@ -1,0 +1,5 @@
+# Ignore pyvenv files
+Lib
+Include
+Scripts
+pyvenv.cfg
